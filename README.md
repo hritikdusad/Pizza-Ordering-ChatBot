@@ -32,3 +32,6 @@ Created a Pizza Ordering Chatbot using Dialoglow and firebase Able to generate u
     8.  Phone Number
     9.  Address
           
+#### Result:
+    Order Confirmed and a unique orderID was generated for the user.
+    Which can be used to query dor the order.
