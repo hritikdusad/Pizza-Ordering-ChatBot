@@ -31,7 +31,31 @@ Created a Pizza Ordering Chatbot using Dialoglow and firebase Able to generate u
     7.  Name
     8.  Phone Number
     9.  Address
+    10. Using OrderId to get the status of order.
           
 #### Result:
     Order Confirmed and a unique orderID was generated for the user.
     Which can be used to query dor the order.
+
+### ChatBot
+![Image of ChatBot](https://github.com/hritikdusad/Pizza-Ordering-ChatBot/blob/master/images/ChatBot.jpg)
+
+### FireBase Database
+![Image of Database](https://github.com/hritikdusad/Pizza-Ordering-ChatBot/blob/master/images/FireBase_Database.jpg)
+
+### List Of Intents
+![Image of List Of Intents](https://github.com/hritikdusad/Pizza-Ordering-ChatBot/blob/master/images/intents.jpg)
+
+### Veg Pizza Intent
+This is used to get the user input about the pizza he wants.
+
+![Image of VegPizza Intent](https://github.com/hritikdusad/Pizza-Ordering-ChatBot/blob/master/images/vegPizza_intent.jpg)
+
+
+### Tools Used:
+    1.Firebase
+    2.Dialogflow console.
+
+
+### Language used:
+Javascript
